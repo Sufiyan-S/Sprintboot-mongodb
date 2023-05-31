@@ -13,7 +13,6 @@ public interface PersonService {
     
     
     
-    
     List<Person> getPersonStartWith(String name);
 
     void delete(String id);
