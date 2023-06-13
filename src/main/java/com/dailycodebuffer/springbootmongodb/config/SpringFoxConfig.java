@@ -12,7 +12,6 @@ import springfox.documentation.spring.web.plugins.Docket;
 
 
 
-
 @Configuration
 public class SpringFoxConfig {
 
