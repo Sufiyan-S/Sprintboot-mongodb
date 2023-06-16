@@ -1,7 +1,6 @@
 package com.dailycodebuffer.springbootmongodb.service;
 
 
-
 import com.dailycodebuffer.springbootmongodb.collection.Person;
 import org.bson.Document;
 import org.springframework.data.domain.Page;
