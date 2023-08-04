@@ -5,6 +5,7 @@ package com.dailycodebuffer.springbootmongodb.controller;
 
 
 
+
 import com.dailycodebuffer.springbootmongodb.collection.Photo;
 import com.dailycodebuffer.springbootmongodb.service.PhotoService;
 import org.springframework.beans.factory.annotation.Autowired;
