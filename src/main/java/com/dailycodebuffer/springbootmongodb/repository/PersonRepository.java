@@ -1,6 +1,5 @@
 package com.dailycodebuffer.springbootmongodb.repository;
 
-
 import com.dailycodebuffer.springbootmongodb.collection.Person;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
