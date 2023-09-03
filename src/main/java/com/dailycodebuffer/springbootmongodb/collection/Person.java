@@ -12,7 +12,6 @@
 
 
 
-
 package com.dailycodebuffer.springbootmongodb.collection;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
