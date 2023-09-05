@@ -1,9 +1,3 @@
-
-
-
-
-
-
 package com.dailycodebuffer.springbootmongodb.repository;
 
 import com.dailycodebuffer.springbootmongodb.collection.Person;
